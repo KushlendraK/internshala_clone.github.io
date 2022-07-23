@@ -1,0 +1,130 @@
+.offer
+{
+ 	width: 60px;
+ 	height: 25px;
+}
+
+.offer1
+{
+ 	 margin-left: -110px;
+ 	 margin-top: 5px;
+}
+#register1
+{
+	width: 100px;
+	height: 40px;
+}
+
+#search_tab
+{
+	margin-top: 25px;
+}
+
+#search_logo
+{	
+	height: 30px;
+	width: 30px;	 
+	/*margin-left: -28px;*/
+}
+
+.banner_border
+{
+	border-radius: 20px;
+}
+.all_internship
+{
+	font-style: normal;
+	text-decoration: none;
+}
+
+.all_internship:hover
+{
+	font-style: normal;
+	text-decoration: underline;
+}
+
+.cities:hover
+{
+	box-shadow: 0px 0px 5px 0px #888888;
+	color: #07bfed;
+}
+#pad1
+{
+	margin-top: 50px;
+}
+
+.special:hover
+{
+	box-shadow: 0px 0px 10px 0px #888888;
+}
+
+.footer_bg
+{
+	background-color: #191f1e;
+	color: white;
+}
+
+.playstore
+{
+	border-radius: 5px;
+	width: 190px!important;
+	height: 40px;
+	font-weight: bolder;
+
+}
+.footer_head1
+{
+	font-weight: bolder;
+	font-size: 16px;
+}
+.font_intern
+{
+	font-style:normal;
+}
+.insta_icon
+{
+	border-radius: 100%;
+	height: 30px;
+	width: 30px;
+	margin-top: 25px;
+	margin-left: -25px;
+}
+
+.fb_icon
+{
+	border-radius: 100%;
+	height: 30px;
+	width: 30px;
+	margin-top: 25px;
+}
+
+.twitter_icon
+{
+	border-radius: 100%;
+	height: 30px;
+	width: 30px;
+	margin-top: 25px;
+	
+}
+
+.youtube_icon
+{
+	border-radius: 100%;
+	height: 30px;
+	width: 30px;
+	margin-top: 25px;
+}
+
+.contact_logo
+{
+	margin-left: -40px;
+}
+
+.nav_link:hover
+{
+	color: #03dbfc!important;
+}
+.intern_font
+{
+	font-size: 16px;
+}
